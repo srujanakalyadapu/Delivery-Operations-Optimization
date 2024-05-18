@@ -19,4 +19,5 @@ The implemented strategies led to significant improvements in delivery operation
 * Reduced Delivery Lead Times: The average delivery lead time was reduced by an average of  2-2.5 days (40% reduction) per shipment.
 * Cost Reduction: Average cost per shipment decreased by $1-$1.5 (15% reduction), leading to substantial cost savings for the STEM Store.
 * Improved CDSI: The strategic reallocation of delivery partners and optimization of vendor profiles significantly enhanced the Customer Delivery Satisfaction Index across targeted cities.
+  
 These results demonstrate the effectiveness of data-driven strategies in optimizing logistics and delivery operations, ultimately supporting STEM Store’s business growth and customer satisfaction. Future recommendations include enhancing customer service through dynamic profiling and vendor allocation before entering new markets to ensure operational cost-efficiency and effective contract negotiations.
